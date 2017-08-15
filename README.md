@@ -1,5 +1,5 @@
-# passworld
-Passworld is a project that locks and unlocks the systems such as cell phones, smart home systems or card entry systems by entering password which is controlled by the distance between the user and the system. It was written in SystemVerilog
+## passworLd
+"passworLd" is a project that locks and unlocks the systems such as cell phones, smart home systems or card entry systems by entering password which is controlled by the distance between the user and the system. It was written in SystemVerilog
 
 FSM Module
  Function: FSM module which gets the signal from Ultrasonic Module will check if the entered
@@ -51,3 +51,5 @@ and outputs “clkout”. This clock will be used in Ultrasonic Module.
  Description: All modules that clock, enable_sr, FSM, Ultrasonic, Counter, SegmentDisplay are
 instantiated in this module. Case statement is used to assign hexadecimal to each digit. Condition is
 which digit is on.
+
+![Alt text](/C:\Users\Aylin\Desktop\MyNotes\cs223spring\Yeni klasör/to/BLOCKdiagram.png)
