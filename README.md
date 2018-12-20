@@ -52,4 +52,6 @@ and outputs “clkout”. This clock will be used in Ultrasonic Module.
 instantiated in this module. Case statement is used to assign hexadecimal to each digit. Condition is
 which digit is on.
 
+Made for CS223 Project in Bilkent University
+
 ![Alt text](/C:\Users\Aylin\Desktop\MyNotes\cs223spring\Yeni klasör\BLOCKdiagram.png)
